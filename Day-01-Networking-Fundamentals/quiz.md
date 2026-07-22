@@ -97,13 +97,4 @@ TCP establishes a connection using the three-way handshake before transferring d
 2. SYN-ACK
 3. ACK
 
----
 
-## Score
-
-Correct Answers: 10/12
-
-Topics to Review:
-
-- Difference between OSI and TCP/IP Models
-- TCP/IP Layer Responsibilities
