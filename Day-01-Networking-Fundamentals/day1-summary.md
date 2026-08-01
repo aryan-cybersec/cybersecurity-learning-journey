@@ -8,9 +8,6 @@
 
 Networking Fundamentals
 
-## Time Spent
-
-(Write how many hours you studied)
 
 ## Key Takeaways
 
