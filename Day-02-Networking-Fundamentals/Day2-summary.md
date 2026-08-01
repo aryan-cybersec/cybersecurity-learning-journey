@@ -4,13 +4,6 @@
 
 31 July 2026
 
----
-
-## Time Spent
-
-(Add your study time here)
-
----
 
 ## Topics Covered
 
